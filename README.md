@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**quantbagel/quantbagel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Background:
 
-Here are some ideas to get you started:
+- Quant ML research @EMJCapital
+- ML researcher (alignement, memory, RL, evals)
+- Founder (cybersec, robotics)
+- CS TA
+- ~10x hackathon winner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Interests:
+- Research.
+- Building products.
+- Creating content.

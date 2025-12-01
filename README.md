@@ -2,7 +2,7 @@
 
 ⚡ Background:
 
-- Quant ML research @EMJCapital
+- Quant ML research
 - ML researcher (alignement, memory, RL, evals)
 - Founder (cybersec, robotics)
 - CS TA
